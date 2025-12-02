@@ -10,7 +10,7 @@ O RAG permite que o chatbot utilize uma **base de conhecimento privada/específi
 
 * **Orquestração via n8n:** Todo o fluxo de trabalho (desde o recebimento da consulta até a entrega da resposta) é gerenciado por *workflows* visuais no n8n.
 * **Arquitetura RAG:** Implementação que assegura que as respostas sejam **fundamentadas em dados reais** do seu domínio.
-* **Escalabilidade e Integração:** Fácil conexão com Bancos de Dados Vetoriais (Pinecone, Weaviate, etc.) e diversos provedores de LLM (OpenAI, Claude, etc.).
+* **Escalabilidade e Integração:** Fácil conexão com Bancos de Dados Vetoriais (Supabase Vector Store.) e diversos provedores de LLM (Gemini , Gemini Embeddings.).
 
 ---
 
